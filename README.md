@@ -3,7 +3,7 @@
 
 <h2>HTML Structure:</h2>
 <p>The HTML file (index.html) provides the basic structure of the webpage.</p>
-<p>It includes elements like header, nav, main, and footer to organize the content.<br>
+<p>It includes elements like header, nav, section  and footer to organize the content.<br>
 Within these elements, you place relevant content such as the logo, navigation links, featured products, and footer information.</p
 <h2>CSS Styling:</h2>
 <p>The CSS file (styles.css) contains styling rules to define the appearance of various HTML elements.<br>
